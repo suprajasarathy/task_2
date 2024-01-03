@@ -54,6 +54,11 @@ The following are the disadvantages of the brute-force algorithm:
   
 -The brute force algorithm is neither constructive nor creative as compared to other algorithms.
 
+<p align="center">
+<img src="image1-499.png">
+</p>
+
+
 
 
 
