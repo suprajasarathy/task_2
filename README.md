@@ -58,6 +58,10 @@ The following are the disadvantages of the brute-force algorithm:
 <img src="image1-499.png">
 </p>
 
+# PYTHON CODE :
+```
+
+
 
 
 
