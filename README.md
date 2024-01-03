@@ -117,7 +117,10 @@ if __name__ == '__main__':
     banner = """CHECKING SERVER!!!"""  print(banner)
     main()
 ```
-
+# PREVIEW SCREENSHOT 
+<p>
+ <img src="screenshot 2.png">
+ </p>
 
 
 
